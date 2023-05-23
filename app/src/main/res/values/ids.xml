@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_dot" type="id" />
+    <item name="result_tv" type="id" />
+    <item name="solution_tv" type="id" />
+    <item name="button_c" type="id" />
+    <item name="button_open_bracket" type="id" />
+    <item name="button_close_bracket" type="id" />
+    <item name="button_divide" type="id" />
+    <item name="button_ac" type="id" />
+    <item name="button_0" type="id" />
+    <item name="button_1" type="id" />
+    <item name="button_2" type="id" />
+    <item name="button_3" type="id" />
+    <item name="button_4" type="id" />
+    <item name="button_5" type="id" />
+    <item name="button_6" type="id" />
+    <item name="button_7" type="id" />
+    <item name="button_8" type="id" />
+    <item name="button_9" type="id" />
+    <item name="button_equals" type="id" />
+    <item name="button_plus" type="id" />
+    <item name="button_minus" type="id" />
+    <item name="button_multiply" type="id" />
+</resources>
